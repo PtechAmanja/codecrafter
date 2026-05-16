@@ -1,0 +1,22 @@
+# CodeCrafter Requirements
+# 
+# This project uses only Python standard library modules,
+# so no external dependencies are required.
+#
+# Minimum Python version: 3.6+
+#
+# Standard library modules used:
+# - base64: Base64 encoding/decoding
+# - subprocess: Safe command execution
+# - argparse: Command-line argument parsing
+# - pathlib: Path handling
+# - urllib.parse: URL encoding/decoding
+# - html: HTML entity encoding/decoding
+# - random: Random banner selection
+# - sys: System-specific parameters
+#
+# For development and testing (optional):
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
+# mypy>=0.910 
